@@ -11,8 +11,6 @@
 .userinfo-avatar {
   overflow:hidden;
   display: block;
-  width: 160rpx;
-  height: 160rpx;
   border-radius: 50%;
   border: 2px solid #fff;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
@@ -22,17 +20,7 @@
   float:left;
 }
 
-.userName{line-height:320rpx;font-size:32rpx;}
-
-
-.userInfo image{
-  width:152rpx;
-  height: 152rpx;
-  margin:90rpx 43rpx 60rpx 60rpx;
-  float:left;
-}
-
-.userName{color:#fff;}
+.userName{line-height:320rpx;font-size:32rpx;color:#fff;}
 
 .basicform{padding:0px 50rpx;position:relative;clear:both;}
 .contactWord{float:left;font-size:32rpx;color:#333;}
