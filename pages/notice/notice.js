@@ -63,9 +63,5 @@ Page({
   onShareAppMessage: function () {
   
   },
-  chongzhi:function(){
-    wx.navigateTo({
-      url: '/pages/payment/payment',
-    })
-  }
+  
 })

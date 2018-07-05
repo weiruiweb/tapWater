@@ -1,7 +1,7 @@
 <view class="userInfo">
   <image src='/images/userImage.jpg' mode="cover"></image>
   <view class="userName">用户姓名:
-    <text>马化腾</text>
+    <text>老马</text>
   </view>
 </view>
 <view class="basicform">
