@@ -7,6 +7,24 @@
   height: 300rpx;
   line-height: 320rpx;
 }
+
+.userinfo-avatar {
+  overflow:hidden;
+  display: block;
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  width:152rpx;
+  height: 152rpx;
+  margin:85rpx 43rpx 60rpx 60rpx;
+  float:left;
+}
+
+.userName{line-height:320rpx;font-size:32rpx;}
+
+
 .userInfo image{
   width:152rpx;
   height: 152rpx;
@@ -15,9 +33,7 @@
 }
 
 .userName{color:#fff;}
-.usermotto {
-  margin-top:0px;
-}
+
 .basicform{padding:0px 50rpx;position:relative;clear:both;}
 .contactWord{float:left;font-size:32rpx;color:#333;}
 .contactInput{width:335rpx;float:left;font-size:32rpx;line-height:106rpx;}

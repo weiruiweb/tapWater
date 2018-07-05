@@ -1,8 +1,9 @@
+
 <view class="userInfo">
-  <image src='/images/userImage.jpg' mode="cover"></image>
-  <view class="userName">用户姓名:
-    <text>老马</text>
-  </view>
+     <view class="userinfo-avatar">
+      <open-data  type="userAvatarUrl" style="width:150rpx;height:150rpx;"></open-data>
+    </view>
+    <text class="userName">用户姓名：<open-data type="userNickName"></open-data></text>
 </view>
 <view class="basicform">
         <image style="" mode="{{item.mode}}" src="/images/edit.jpg" class="edit"></image>
