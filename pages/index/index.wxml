@@ -1,0 +1,32 @@
+<view class="userInfo">
+  <image src='/images/userImage.jpg' mode="cover"></image>
+  <view class="userName">用户姓名:
+    <text>马化腾</text>
+  </view>
+</view>
+<view class="basicform">
+        <image style="" mode="{{item.mode}}" src="/images/edit.jpg" class="edit"></image>
+       <view class="contact">
+          <image style="" mode="{{item.mode}}" src="/images/contactIco.jpg"></image>
+          <view class="contactWord">联系方式:</view>
+          <view  class="contactInput">
+          <input placeholder="联系方式" focus="{{focus}}" style="line-height:106px;color:#000;"/>
+          </view>
+       </view>
+       <view class="contact">
+          <image style="" mode="{{item.mode}}" src="/images/addressIcon.jpg"></image>
+          <view class="contactWord">地址:</view>
+          <view  class="contactInput">
+          <input placeholder="请输入您的地址" focus="{{focus}}" style="line-height:106px;color:#000;"/>
+          </view>
+       </view>
+       <view class="contact">
+          <image style="" mode="{{item.mode}}" src="/images/typeIcon.jpg"></image>
+          <view class="contactWord">用水类型:</view>
+          <view  class="contactInput">
+          <input placeholder="请输入您的用水类型" focus="{{focus}}" style="line-height:106px;color:#000;"/>
+          </view>
+          
+       </view>
+       
+  </view>

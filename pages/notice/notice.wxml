@@ -1,0 +1,27 @@
+<view class="container">
+	<view class="newsRow" bindtap="chongzhi">
+		<image src="/images/news.jpg" style="width:150rpx;height:150rpx;"></image>
+		<view class="newsText">
+			<text class="newsTitle">图文公告</text>
+			<text class="newsCont">显示发布图文公告信息息显示发布图文 显示发布图文公告信息……</text>
+			<text class="newsTime">—  2018.05.28</text>
+		</view>
+	</view>
+ 	<view class="newsRow">
+		<image src="/images/news.jpg" style="width:150rpx;height:150rpx;"></image>
+		<view class="newsText">
+			<text class="newsTitle">图文公告</text>
+			<text class="newsCont">显示发布图文公告信息息显示发布图文 显示发布图文公告信息……</text>
+			<text class="newsTime">—  2018.05.28</text>
+		</view>
+	</view>
+	<view class="newsRow">
+		<image src="/images/news.jpg" style="width:150rpx;height:150rpx;"></image>
+		<view class="newsText">
+			<text class="newsTitle">图文公告</text>
+			<text class="newsCont">显示发布图文公告信息息显示发布图文 显示发布图文公告信息……</text>
+			<text class="newsTime">—  2018.05.28</text>
+		</view>
+	</view>
+</view>
+

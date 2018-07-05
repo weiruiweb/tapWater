@@ -1,0 +1,10 @@
+
+.waterHeader,.waterbody,.waterTime{height:90rpx;line-height:90rpx;padding:0rpx 60rpx; }
+ .watertext1{width:82%;text-align:left;color:#333;font-size:30rpx;display:flex;float:left;}
+ .watertext2{width:18%;display:flex;float:left;text-align:center;font-size:26rpx;color:#63bbff;}
+ .bottom_line{border-bottom:solid 1px #ccc;}
+.go_pay{color:#fe0000;}
+.waterbody .watertext1{width:75%;}
+.waterbody .watertext2{width:25%;}
+.waterTime .watertext1{width:80%;}
+.waterTime .watertext2{width:20%;}

@@ -1,0 +1,34 @@
+<view class="waterDetail">
+	<view class="waterHeader bottom_line">
+		<text class="watertext1">商业用水</text>
+		<text class="watertext2">15T</text>
+	</view>
+	<view class="waterHeader">
+		<text class="watertext1">居民用水</text>
+		<text class="watertext2">4T</text>
+	</view>
+	<view class="waterHeader bottom_line">
+		<text class="watertext1">用水总量</text>
+		<text class="watertext2">19T</text>
+	</view>
+	<view class="waterHeader bottom_line">
+		<text class="watertext1">商业用水价格</text>
+		<text class="watertext2">10.0</text>
+	</view>
+	<view class="waterHeader bottom_line">
+		<text class="watertext1">居民用水价格</text>
+		<text class="watertext2">3.0</text>
+	</view>
+	<view class="waterHeader">
+		<text class="watertext1">总价	：</text>
+		<text class="watertext2">100.0</text>
+	</view>
+	<view class="waterbody bottom_line">
+		<text class="watertext1">状态	：</text>
+		<text class="watertext2 go_pay">未支付 >>></text>
+	</view>
+	<view class="waterbody bottom_line">
+		<text class="watertext1">时间	：</text>
+		<text class="watertext2">2018.09.09</text>
+	</view>
+</view>

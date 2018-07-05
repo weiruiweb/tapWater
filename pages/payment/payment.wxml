@@ -1,0 +1,13 @@
+<view class="payment">
+	<view class="pay">
+		水费支付
+	</view>
+	<view class="pay_money">
+		<input type="text" placeholder="请输入待缴水费"></input>
+		<text>元</text>
+	</view>
+	<button class="payButn">确认支付</button>
+	<view class="pay_blank">
+		<image src="/images/bg_blank.jpg"></image>
+	</view>
+</view>

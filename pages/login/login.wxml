@@ -1,0 +1,18 @@
+<view class="login">
+<view class="logo_blank">
+	<image src="/images/logo_blank.jpg"></image>
+</view>
+<form  bindsubmit="formSubmit">
+	<view class="login_user">
+		<text decode="{{true}}">账&nbsp;&nbsp;号:</text>
+		<input type="text" name="no" placeholder="请输入账号"></input>
+	</view>
+	<view class="login_user">
+		<text decode="{{true}}">密&nbsp;&nbsp;码:</text>
+		<input password="true" name="pwd" placeholder="请输入密码"></input>
+	</view>
+	<view class="log">
+		<button  form-type="submit">登录</button>
+	</view>
+</form>
+</view>

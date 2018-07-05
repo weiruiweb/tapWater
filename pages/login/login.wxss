@@ -1,0 +1,8 @@
+.login{padding:60rpx;}
+.login form{margin:60rpx 0rpx;overflow:hidden;}
+.logo_blank{text-align:center;}
+.logo_blank image{width:150rpx;height:150rpx;margin-bottom:60rpx;}
+.log button{height:90rpx;border-radius:5rpx;background:#63bbff;font-size:36rpx;color:#fff;margin-top:60rpx;}
+.login_user{height:110rpx;line-height:110rpx;border-bottom:solid 1px #ccc;}
+.login_user text{float:left;font-size:32rpx;color:#000;}
+.login_user input{position:relative;top:30rpx;font-size:26rpx;color:#ccc;padding-left:40rpx;}

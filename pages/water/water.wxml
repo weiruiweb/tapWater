@@ -1,0 +1,20 @@
+<view class="water">
+	<view class="waterHeader">
+		<text>用水总量</text>
+		<text>总价</text>
+		<text>状态</text>
+		<text>时间</text>
+	</view>
+	<view class="waterBody" bindtap="waterDetail">
+		<text>3t</text>
+		<text>128.00</text>
+		<text class="willPay">未支付</text>
+		<text>2018.05.31</text>
+	</view>
+	<view class="waterBody" bindtap="waterDetail">
+		<text>3t</text>
+		<text>128.00</text>
+		<text class="finish">已支付</text>
+		<text>2018.05.31</text>
+	</view>
+</view>

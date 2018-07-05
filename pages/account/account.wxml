@@ -1,0 +1,36 @@
+<view class="userInfo">
+  <image src='/images/userImage.jpg' mode="cover" class="userimage"></image>
+  <view class="accountName"> 
+        <view class="nameAccout userIn">
+          <image src="/images/userIcon.jpg"></image>
+          <text>用户姓名 ：</text>
+          <text> 老马</text>
+        </view>
+        <view class="nameAccout">
+          <image src="/images/moneyIcon.jpg"></image>
+          <text>余   额 ：</text>
+          <text> 233</text>
+        </view>
+  </view>
+  <view class="up_money" bindtap="up_money">
+充值 >
+  </view>
+</view>
+<view  class="trade">
+交易明细
+</view>
+<view class="trade_header">
+    <text>金额</text>
+    <text>内容</text>
+    <text>时间</text>
+ </view>
+ <view class="trade_body">
+    <text>3元</text>
+    <text>预存款</text>
+    <text>2018.9.9</text>
+ </view>
+ <view class="trade_body">
+    <text>3元</text>
+    <text>预存款</text>
+    <text>2018.9.9</text>
+ </view>

@@ -1,0 +1,54 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/password/password",
+    "pages/water/water",
+    "pages/notice/notice",
+    "pages/account/account",
+    "pages/waterDetail/waterDetail",
+    "pages/payment/payment"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#63bbff",
+    "navigationBarTitleText": "用户信息",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "基础信息",
+        "iconPath":"/images/bottomIcon1.jpg",
+        "selectedIconPath":"/images/bottomIcon1-b.jpg"
+      },
+      {
+        "pagePath": "pages/password/password",
+        "text": "修改密码",
+        "iconPath": "/images/bottomIcon2.jpg",
+        "selectedIconPath": "/images/bottomIcon2-b.jpg"
+      },
+      {
+        "pagePath": "pages/water/water",
+        "text": "用水信息",
+        "iconPath": "/images/bottomIcon3.jpg",
+        "selectedIconPath": "/images/bottomIcon3-b.jpg"
+      },
+      {
+        "pagePath": "pages/notice/notice",
+        "text": "公告",
+        "iconPath": "/images/bottomIcon4.jpg",
+        "selectedIconPath": "/images/bottomIcon4-b.jpg"
+      },
+      {
+        "pagePath": "pages/account/account",
+        "text": "我的账户",
+        "iconPath": "/images/bottomIcon5.jpg",
+        "selectedIconPath": "/images/bottomIcon5-b.jpg"
+      }
+    ],
+    "borderStyle": "#f3f3f3",
+    "color":"#999",
+    "selectedColor":"#63bbff"
+  }
+}
