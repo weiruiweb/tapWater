@@ -1,0 +1,6 @@
+.waterHeader{height:87rpx;border-bottom:solid 1rpx #ccc;line-height:88rpx;color:#000;font-weight:700;}
+.waterHeader text{width:25%;text-align:center;float:left;font-size:32rpx;}
+.waterBody{height:100rpx;line-height:100rpx;border-bottom:solid 1rpx #ccc;}
+.waterBody text{width:25%;text-align:center;float:left;font-size:26rpx;}
+.willPay{color:red;}
+.finish{color:#63bbff;}

@@ -6,7 +6,8 @@
     "pages/notice/notice",
     "pages/account/account",
     "pages/waterDetail/waterDetail",
-    "pages/payment/payment"
+    "pages/payment/payment",
+    "pages/test/test"
   ],
   "window":{
     "backgroundTextStyle":"light",
